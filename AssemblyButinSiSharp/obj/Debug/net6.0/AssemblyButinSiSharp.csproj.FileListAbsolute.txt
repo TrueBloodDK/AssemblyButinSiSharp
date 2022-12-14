@@ -1,0 +1,15 @@
+C:\Users\tghhs\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\bin\Debug\net6.0\AssemblyButinSiSharp.exe
+C:\Users\tghhs\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\bin\Debug\net6.0\AssemblyButinSiSharp.deps.json
+C:\Users\tghhs\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\bin\Debug\net6.0\AssemblyButinSiSharp.runtimeconfig.json
+C:\Users\tghhs\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\bin\Debug\net6.0\AssemblyButinSiSharp.dll
+C:\Users\tghhs\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\bin\Debug\net6.0\AssemblyButinSiSharp.pdb
+C:\Users\tghhs\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\obj\Debug\net6.0\AssemblyButinSiSharp.csproj.AssemblyReference.cache
+C:\Users\tghhs\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\obj\Debug\net6.0\AssemblyButinSiSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tghhs\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\obj\Debug\net6.0\AssemblyButinSiSharp.AssemblyInfoInputs.cache
+C:\Users\tghhs\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\obj\Debug\net6.0\AssemblyButinSiSharp.AssemblyInfo.cs
+C:\Users\tghhs\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\obj\Debug\net6.0\AssemblyButinSiSharp.csproj.CoreCompileInputs.cache
+C:\Users\tghhs\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\obj\Debug\net6.0\AssemblyButinSiSharp.dll
+C:\Users\tghhs\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\obj\Debug\net6.0\refint\AssemblyButinSiSharp.dll
+C:\Users\tghhs\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\obj\Debug\net6.0\AssemblyButinSiSharp.pdb
+C:\Users\tghhs\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\obj\Debug\net6.0\AssemblyButinSiSharp.genruntimeconfig.cache
+C:\Users\tghhs\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\obj\Debug\net6.0\ref\AssemblyButinSiSharp.dll
