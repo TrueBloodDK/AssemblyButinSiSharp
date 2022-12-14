@@ -13,3 +13,18 @@ C:\Users\tghhs\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\obj\Debug
 C:\Users\tghhs\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\obj\Debug\net6.0\AssemblyButinSiSharp.pdb
 C:\Users\tghhs\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\obj\Debug\net6.0\AssemblyButinSiSharp.genruntimeconfig.cache
 C:\Users\tghhs\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\obj\Debug\net6.0\ref\AssemblyButinSiSharp.dll
+C:\Users\Мал Фурион\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\bin\Debug\net6.0\AssemblyButinSiSharp.exe
+C:\Users\Мал Фурион\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\bin\Debug\net6.0\AssemblyButinSiSharp.deps.json
+C:\Users\Мал Фурион\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\bin\Debug\net6.0\AssemblyButinSiSharp.runtimeconfig.json
+C:\Users\Мал Фурион\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\bin\Debug\net6.0\AssemblyButinSiSharp.dll
+C:\Users\Мал Фурион\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\bin\Debug\net6.0\AssemblyButinSiSharp.pdb
+C:\Users\Мал Фурион\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\obj\Debug\net6.0\AssemblyButinSiSharp.csproj.AssemblyReference.cache
+C:\Users\Мал Фурион\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\obj\Debug\net6.0\AssemblyButinSiSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мал Фурион\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\obj\Debug\net6.0\AssemblyButinSiSharp.AssemblyInfoInputs.cache
+C:\Users\Мал Фурион\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\obj\Debug\net6.0\AssemblyButinSiSharp.AssemblyInfo.cs
+C:\Users\Мал Фурион\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\obj\Debug\net6.0\AssemblyButinSiSharp.csproj.CoreCompileInputs.cache
+C:\Users\Мал Фурион\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\obj\Debug\net6.0\AssemblyButinSiSharp.dll
+C:\Users\Мал Фурион\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\obj\Debug\net6.0\refint\AssemblyButinSiSharp.dll
+C:\Users\Мал Фурион\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\obj\Debug\net6.0\AssemblyButinSiSharp.pdb
+C:\Users\Мал Фурион\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\obj\Debug\net6.0\AssemblyButinSiSharp.genruntimeconfig.cache
+C:\Users\Мал Фурион\RiderProjects\AssemblyButinSiSharp\AssemblyButinSiSharp\obj\Debug\net6.0\ref\AssemblyButinSiSharp.dll
