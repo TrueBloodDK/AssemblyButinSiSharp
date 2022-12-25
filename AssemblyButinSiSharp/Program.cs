@@ -32,7 +32,7 @@ internal static class Program
         Console.WriteLine($"Введите значение s"); 
             var s = (int.Parse(Console.ReadLine()!));
             
-        Console.WriteLine($"Расстояние между автомобилями = {(v1+v2)*t - s}");
+        Console.WriteLine($"Расстояние между автомобилями = {(v1+v2)*t + s}");
     }
 
     private static void work_2_1()
@@ -73,27 +73,36 @@ internal static class Program
         Console.WriteLine($"Введите числа A и B так чтобы A<B");
         int A = (int.Parse(Console.ReadLine()!));
         int B = (int.Parse(Console.ReadLine()!));
-        int sum = B-A;
-       /* while (B > A)
+        int sum = B-A+1; 
+        Console.WriteLine($"Кол-во цифр между ними включительно = {sum}");
+        while (B > A)
         {
             Console.WriteLine($"{A} + {B} = {A + B}");
             A += B;
             B--;
             sum++;
-        }*/
-       for (int i = B - A; i == 0; i--)
-       {
-           Console.WriteLine($"{A} + {B} = {A + B}");
-           A += B;
-       }
-        Console.WriteLine($"Среднее арифметическое = {A/sum}");
+        }
+       Console.WriteLine($"Среднее арифметическое = {A/sum}");
     }
-
+/*12	Написать подпрограмму, вычисляющую НОК, и вычислить НОК для каждой пары чисел из трёх заданных.*/
     private static void work_4_1()
     {
     }
-
+    
+/*	Написать подпрограмму вычисления значения функции по формуле:
+Вычислить f(x_1 )+f(x_2).
+*/
     private static void work_4_2()
+    {
+    }
+    
+    /*2	Вычислить произведение четных элементов массива.*/
+    private static void work_5_1()
+    {
+    }
+    
+    /*2	Записать строку a в обратном порядке.*/
+    private static void work_5_2()
     {
     }
 
@@ -110,6 +119,8 @@ internal static class Program
             [6] = work_3_2,
             [7] = work_4_1,
             [8] = work_4_2,
+            [9] = work_5_1,
+            [10] = work_5_2,
         };
         Console.WriteLine("Какую лабу делаем? (1-8)");
         int key = (int.Parse(Console.ReadLine()!));
